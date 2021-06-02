@@ -26,4 +26,4 @@ Le nombre de sortie logique d’un arduino est limité et souvent on peut avoir 
 **Q0 à Q7:**  Représentent les colonnes.
 
 ### Schéma de montage
-![img](Assets/circuitfinal.png)
+![img](Assets/circuit_final.png)
